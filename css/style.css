@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    border:0;
+    padding:0;
+    box-sizing: border-box;
+}
+@media screen and (min-width: 320px) and (max-width: 400px) and (orientation: portrait) {
+
+    body{
+     background-color: blue;
+    }
+
+    .page{
+        background-color:#FFFFFF;
+    }
+    .section menu{
+        background-color: #FFFF00;
+    }
+    .section header{
+        background-color: #FFFF11;
+    }
+    .section content{
+        background-color: #FF00FF;
+    }
+    .section sign-up {
+        background-color: #00FFFF;
+    }
+    .section feature-1{
+        background-color: #0055FF;
+    }
+    .section feature-2{
+        background-color: #005500;
+    }
+    .section feature-3{
+        background-color: #005599;
+    }
+
+
+
+
+
+
+
+}
